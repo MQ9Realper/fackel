@@ -29,7 +29,7 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:background="@drawable/flashlight_indicator"
-        android:text="@string/flashlight_on"
+        android:text=""
         android:textColor="#ffffff"
         android:textSize="112sp"
         android:textStyle="bold"/>
